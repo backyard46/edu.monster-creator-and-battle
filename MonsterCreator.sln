@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonsterCreator3", "MonsterCreator3\MonsterCreator3.csproj", "{C40A298A-D108-4F11-937E-24B4EB12EC9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonsterCreator1", "MonsterCreator1\MonsterCreator1.csproj", "{F313A1AB-27AE-4C9E-AB08-D673C99079FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonsterCreator2", "MonsterCreator2\MonsterCreator2.csproj", "{BA28D8AA-402F-4A1F-A4DE-7F3065CECADA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C40A298A-D108-4F11-937E-24B4EB12EC9C}.Debug|x86.ActiveCfg = Debug|x86
+		{C40A298A-D108-4F11-937E-24B4EB12EC9C}.Debug|x86.Build.0 = Debug|x86
+		{C40A298A-D108-4F11-937E-24B4EB12EC9C}.Release|x86.ActiveCfg = Release|x86
+		{C40A298A-D108-4F11-937E-24B4EB12EC9C}.Release|x86.Build.0 = Release|x86
+		{F313A1AB-27AE-4C9E-AB08-D673C99079FD}.Debug|x86.ActiveCfg = Debug|x86
+		{F313A1AB-27AE-4C9E-AB08-D673C99079FD}.Debug|x86.Build.0 = Debug|x86
+		{F313A1AB-27AE-4C9E-AB08-D673C99079FD}.Release|x86.ActiveCfg = Release|x86
+		{F313A1AB-27AE-4C9E-AB08-D673C99079FD}.Release|x86.Build.0 = Release|x86
+		{BA28D8AA-402F-4A1F-A4DE-7F3065CECADA}.Debug|x86.ActiveCfg = Debug|x86
+		{BA28D8AA-402F-4A1F-A4DE-7F3065CECADA}.Debug|x86.Build.0 = Debug|x86
+		{BA28D8AA-402F-4A1F-A4DE-7F3065CECADA}.Release|x86.ActiveCfg = Release|x86
+		{BA28D8AA-402F-4A1F-A4DE-7F3065CECADA}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E98465F3-B0DC-4086-AF13-2F9A365B0A64}
+	EndGlobalSection
+EndGlobal
